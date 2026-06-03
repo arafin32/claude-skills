@@ -12,9 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run Markdown linter
-        uses: github/super-linter@v5
-        with:
-          default_branch: main
+        uses: docker://ghcr.io/github/super-linter:v5.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEFAULT_BRANCH: main
           VALIDATE_MARKDOWN: true
           VALIDATE_YAML: false
           VALIDATE_JSON: false
