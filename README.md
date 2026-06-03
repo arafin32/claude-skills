@@ -17,7 +17,7 @@ A curated, open-source collection of specialized Claude prompts and workflows fo
 
 ### Option 2: Fork the Entire Repo
 ```bash
-git clone https://github.com/[your-username]/claude-skills.git
+git clone https://github.com/arafin32/claude-skills.git
 cd claude-skills
 ```
 Then explore, use, modify, and contribute improvements.
@@ -88,10 +88,11 @@ Each skill file has this structure:
 ```markdown
 # Skill: [Name]
 
-**Category:** [Category]
-**Version:** 1.0
-**Author:** [Creator]
-**License:** MIT
+| Category | [Category] |
+| Version | 1.0 |
+| Author | [Creator] |
+| Last Updated | [Date] |
+| License | MIT |
 
 ## What it does
 [Clear description of what the skill does]
@@ -131,7 +132,7 @@ This is a community project. We need YOUR skills!
 
 1. **Fork the repo**
    ```bash
-   git clone https://github.com/[your-username]/claude-skills.git
+   git clone https://github.com/arafin32/claude-skills.git
    cd claude-skills
    git checkout -b add-[skill-name]
    ```

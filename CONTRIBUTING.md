@@ -14,7 +14,7 @@ The most valuable contribution is a new skill.
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/claude-skills.git
+   git clone https://github.com/arafin32/claude-skills.git
    cd claude-skills
    git checkout -b add-skill/your-skill-name
    ```
