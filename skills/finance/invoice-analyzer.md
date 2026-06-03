@@ -1,10 +1,10 @@
 # Skill: Invoice Analyzer
 
-**Category:** Finance
-**Version:** 1.0
-**Author:** Claude Skills Contributors
-**Last Updated:** 2024
-**License:** MIT
+| Category | Finance |
+| Version | 1.0 |
+| Author | Kamrul Arafin |
+| Last Updated | 2026 |
+| License | MIT |
 
 ---
 

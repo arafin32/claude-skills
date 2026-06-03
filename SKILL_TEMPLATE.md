@@ -1,10 +1,10 @@
 # Skill: [Skill Name Here]
 
-**Category:** [Business, Copywriting, Finance, Legal, Real Estate, E-commerce, HR, Marketing, Development, etc.]
-**Version:** 1.0
-**Author:** [Your Name / GitHub Handle]
-**Last Updated:** [Date]
-**License:** MIT
+| Category | [Business, Copywriting, Finance, Legal, Real Estate, E-commerce, HR, Marketing, Development, etc.] |
+| Version | 1.0 |
+| Author | Kamrul Arafin |
+| Last Updated | 2026 |
+| License | MIT |
 
 ---
 

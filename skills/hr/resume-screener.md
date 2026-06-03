@@ -1,10 +1,10 @@
 # Skill: Resume Screener
 
-**Category:** HR
-**Version:** 1.0
-**Author:** Claude Skills Contributors
-**Last Updated:** 2024
-**License:** MIT
+| Category | HR |
+| Version | 1.0 |
+| Author | Kamrul Arafin |
+| Last Updated | 2026 |
+| License | MIT |
 
 ---
 
