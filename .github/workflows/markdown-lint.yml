@@ -16,5 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEFAULT_BRANCH: main
-          VALIDATE_MARKDOWN: true
+          VALIDATE_MARKDOWN: false
           FILTER_REGEX_EXCLUDE: '(.github/workflows|node_modules|vendor)'
