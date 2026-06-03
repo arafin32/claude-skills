@@ -33,6 +33,19 @@ If you're using Claude via API or another LLM:
 - Integrate into your application
 - Modify as needed
 
+### Option 5: Run the repo in Docker
+Build and run the library in a container:
+```bash
+docker build -t claude-skills .
+docker run --rm -p 8080:8080 claude-skills
+```
+Then open `http://localhost:8080` in your browser.
+
+Or use Docker Compose:
+```bash
+docker compose up --build
+```
+
 ---
 
 ## 📚 Skills by Category
